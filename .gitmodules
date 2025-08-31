@@ -1,3 +1,6 @@
 [submodule "openai"]
 	path = openai
 	url = https://github.com/jaygupta8/OpenAI/
+[submodule "ragflow"]
+	path = ragflow
+	url = https://github.com/infiniflow/ragflow
